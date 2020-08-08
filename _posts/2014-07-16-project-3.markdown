@@ -1,11 +1,11 @@
 ---
-title: Golden
-subtitle: Website Design
+title: ICEBERG
+subtitle: Imagery Cyber-infrastructure and Extensible Building blocks to Enhance Research in the Geosciences
 layout: default
-modal-id: 3
+modal-id: https://iceberg-project.github.io
 date: 2014-07-16
 img: golden.png
-thumbnail: golden-thumbnail.png
+thumbnail: iceberg.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

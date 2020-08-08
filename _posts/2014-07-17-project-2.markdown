@@ -1,11 +1,11 @@
 ---
-title: Escape
-subtitle: Website Design
+title: HTBAC
+subtitle: High-Throughput Binding Affinity Calculations
 layout: default
-modal-id: 2
+modal-id: http://radical.rutgers.edu/projects/htbac
 date: 2014-07-17
 img: escape.png
-thumbnail: escape-thumbnail.png
+thumbnail: htbac.jpg
 alt: image-alt
 project-date: April 2014
 client: Start Bootstrap

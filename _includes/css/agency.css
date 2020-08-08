@@ -269,7 +269,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('{{ site.baseurl }}/img/header-bg.jpg');
+    background-image: url('{{ site.baseurl }}/img/black.jpg');
     background-position: center center;
     background-repeat: none;
     -webkit-background-size: cover;
@@ -309,17 +309,17 @@ header .intro-text .intro-heading {
     header .intro-text .intro-lead-in {
         margin-bottom: 25px;
         font-family: {{ site.data.template.font.secondary }};
-        font-size: 40px;
-        font-style: italic;
+        font-size: 80px;
         line-height: 40px;
     }
 
     header .intro-text .intro-heading {
         margin-bottom: 50px;
-        text-transform: uppercase;
+        text-transform: lowercase;
         font-family: {{ site.data.template.font.primary }};
-        font-size: 75px;
-        font-weight: 700;
+        font-size: 20px;
+        font-style: italic;
+        font-weight: 200;
         line-height: 75px;
     }
 }
@@ -407,7 +407,7 @@ section h3.section-subheading {
     padding: 25px;
     max-width: 400px;
     text-align: center;
-    background-color: #fff;
+    background-color: #fbfbf3;
 }
 
 #portfolio .portfolio-item .portfolio-caption h4 {
