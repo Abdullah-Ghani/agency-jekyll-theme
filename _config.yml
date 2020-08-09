@@ -11,7 +11,7 @@ description: "Write an awesome description for your new site here. You can edit 
 people:
 - name: Shantenu Jha
   pic: 1
-  position: Associate Professor
+  position: Associate Professor/Lead Investigator
   social:
     - title: linkedin
       url: https://www.linkedin.com/in/shantenu-jha-5625153/
@@ -28,14 +28,14 @@ people:
     - title: github
       url: https://github.com/andre-merzky
 
-- name: Abdullah Ghani
-  pic: 3
-  position: Student Researcher
+- name: Matteo Turilli
+  pic: matteo
+  position: Assistant Research Professor
   social:
     - title: linkedin
-      url: https://www.linkedin.com/in/abdullah-ghani-4a3849141/
+      url: #
     - title: github
-      url: https://github.com/Abdullah-Ghani
+      url: https://github.com/mturilli
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -46,8 +46,8 @@ social:
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
+  - line: 96 Frelinghuysen Rd
+  - line: Piscataway Township, NJ 08854
 
 # Build settings
 markdown: kramdown
